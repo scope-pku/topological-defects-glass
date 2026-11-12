@@ -1,5 +1,7 @@
 # Topological defects in vibrational modes of 2D glasses
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24150526.svg)](https://doi.org/10.5281/zenodo.24150526)
+
 Example code accompanying the manuscript
 
 > *Bipartite lattice transition of topological defects at the Ioffe–Regel limit in amorphous solids*.
